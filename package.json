@@ -1,6 +1,6 @@
 {
   "name": "hex2bin",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "CLI utility to hexidecimal decode input",
   "bin": {
     "hex2bin": "hex2bin.js"
